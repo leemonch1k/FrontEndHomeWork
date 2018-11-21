@@ -1,0 +1,32 @@
+.top {
+    position: absolute;
+    display: block;
+    height: 605px;
+    width: 1920px;
+    background-color: #71b5e3;
+    margin: 102px 0 0 -8px;
+}
+
+.top .text {
+    position: relative;
+    color: #fff;
+    padding-left: 373px;
+    padding-top: 125px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.top .text .lorem {
+    font-weight: bold;
+    font-size: 72pt;
+    text-shadow: 0 3px 20px rgba(0, 0, 0, 0.4);
+}
+
+.top .text .romp {
+    font-weight: bold;
+    font-size: 24pt;
+}
+
+.top .text .hello {
+    font-weight: lighter;
+    font-size: 24pt;
+}
